@@ -1,0 +1,4 @@
+bin/Painter.out 	
+make: bin/Painter.out: Command not found
+Makefile:7: recipe for target 'OUT' failed
+make: *** [OUT] Error 127
